@@ -1,0 +1,26 @@
+id,name,type,age,function,representation,position,organisation
+TH,Thomas Hitzlsperger,0,38,V,"S, U, K",V,"DAF, VV"
+TK,Tobias Keller,0,,V,"F, V, U",I,VV
+OS,Oliver Schraft,0,53,V,K,M,"KCD, VV"
+CV,Claus Vogt,0,51,A,,V,"VFP, IGH, AV"
+WP,Wilfried Porth,0,62,A,,S,"DAG, MBB, HMSS, SWM, AV"
+RA,Rainer Adrion,0,67,A,S,M,"HV, AV"
+HJ,Harmut Jenner,0,55,A,,S,"AKF, AKKG, AV"
+FR,Franz Reiner,0,53,A,,M,"DMAG, AV"
+BS,Dr. Bertram Sugg,0,55,A,,M,"RBG, FCG, AV"
+VV,Vorstand VfB,1,,,,,
+AV,Aufsichtsrat VfB,1,,,,,
+DAF,Deutsche Akademie der Fußballkultur,1,,,,,
+KCD,"""Kommission Clubmedien"" der Deutschen Fußball Liga DFL",1,,,,,
+VFP,Verein FC PlayFair!,1,,,,,
+IGH,Intesia Group Holding GmbH,1,,,,,
+DAG,Daimler AG,1,,,,,
+MBB,Mercedes Benz Bank,1,,,,,
+HMSS,Hanns-Martin-Schleyer-Stiftung,1,,,,,
+SWM,Süd-West-Metall,1,,,,,
+HV,11 hilft e. V.,1,,,,,
+AKKG,Alfred Kecher se & Co. KG,1,,,,,
+AKF,Alfred Kercher Förderstiftung,1,,,,,
+DMAG,Daimler Mobility AG,1,,,,,
+RBG,Robert Bosch GmbH,1,,,,,
+FCG,Fanclub Courage Gerlingen,1,,,,,
