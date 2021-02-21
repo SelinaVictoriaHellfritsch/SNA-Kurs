@@ -17,16 +17,19 @@ Ich habe den Datensatz von verschiedenne Websites erhoben.
 Identische ID mit node Liste. Gibt eine eindeutige ID in Kurzform des Namens der Person oder Organisation an.
 
 **from**  
-d
+Gibt an von welchem Akteur die Verbingund geht.
 
 **to**  
-d
+Gibt an zu welchem Akteur die Verbindung geht.
 
 
 # NODE-Attribute  
   
 **id**  
-Identische ID mit edge Liste. Gibt eine eindeutige ID in Kurzform des Namens der Person oder Organisation an.
+Identische ID mit edge Liste. Gibt eine eindeutige ID in Kurzform des Namens der Person oder Organisation an. Dabei verwende ich immer die Anfangsbuchstaben der jeweiligen Vor- und Nachnamen sowie 
+
+**name**    
+Gibt den vollen Namen der Personen und Organisationen an.
 
 **type**    
 Gibt an, ob es sich um eine Person oder Organisation handelt.
@@ -39,13 +42,22 @@ Gibt das Alter der Akteure in natürliche Zahlen ohne Skalierung an.
 **funktion**   
 Gibt die Funktion der Akteure an.
 V = Vorstand
-AR = Aufsichtsrat
+A = Aufsichtsrat
 
 **representation**    
-Bezieht sich auf die Funktion innerhalb der VfB Gremien: Politik, Wirtschaft, Gewerkschaft, Umwelt, Sport, Wissenschaft, etc.
+Bezieht sich auf die Funktion innerhalb der VfB Gremien: 
+U = Unternehmensstrategie
+S = Sport
+K = Kommunikation
+V = Verwaltung
+F = Finanzen
   
 **position**    
-Gibt die Position in der VfB Organisation an: Vorsitz, Stellvertreter, Mitglied
+Gibt die Position in der VfB Organisation an:
+V = Vorsitzender
+S = Stellvertretender Vorsitzender
+I = Interimsvorstand
+M = Mitglied
 
 # DATENQUELLEN
 Die Daten für das Netzwerk werden erhoben aus:
