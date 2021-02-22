@@ -1,0 +1,26 @@
+id,name,type,age,function,representation,position,organisation
+TH,Thomas Hitzlsperger,0,38,V,"S, U, K",V,"DAF, VV"
+TK,Tobias Keller,0,n/a,V,"F, V, U",I,VV
+OS,Oliver Schraft,0,53,V,K,M,"KCD, VV"
+CV,Claus Vogt,0,51,A,n/a,V,"VFP, IGH, AV"
+WP,Wilfried Porth,0,62,A,n/a,S,"DAG, MBB, HMSS, SWM, AV"
+RA,Rainer Adrion,0,67,A,S,M,"HV, AV"
+HJ,Harmut Jenner,0,55,A,n/a,S,"AKF, AKKG, AV"
+FR,Franz Reiner,0,53,A,n/a,M,"DMAG, AV"
+BS,Dr. Bertram Sugg,0,55,A,n/a,M,"RBG, FCG, AV"
+VV,Vorstand VfB,1,n/a,n/a,n/a,n/a,n/a
+AV,Aufsichtsrat VfB,1,n/a,n/a,n/a,n/a,n/a
+DAF,Deutsche Akademie der Fussballkultur,1,n/a,n/a,n/a,n/a,n/a
+KCD,"""Kommission Clubmedien"" der Deutschen Fussball Liga DFL",1,n/a,n/a,n/a,n/a,n/a
+VFP,Verein FC PlayFair!,1,n/a,n/a,n/a,n/a,n/a
+IGH,Intesia Group Holding GmbH,1,n/a,n/a,n/a,n/a,n/a
+DAG,Daimler AG,1,n/a,n/a,n/a,n/a,n/a
+MBB,Mercedes Benz Bank,1,n/a,n/a,n/a,n/a,n/a
+HMSS,Hanns-Martin-Schleyer-Stiftung,1,n/a,n/a,n/a,n/a,n/a
+SWM,Suedwestmetall,1,n/a,n/a,n/a,n/a,n/a
+HV,11 hilft e. V.,1,n/a,n/a,n/a,n/a,n/a
+AKKG,Alfred Kaecher se & Co. KG,1,n/a,n/a,n/a,n/a,n/a
+AKF,Alfred Kercher Foerderstiftung,1,n/a,n/a,n/a,n/a,n/a
+DMAG,Daimler Mobility AG,1,n/a,n/a,n/a,n/a,n/a
+RBG,Robert Bosch GmbH,1,n/a,n/a,n/a,n/a,n/a
+FCG,Fanclub Courage Gerlingen,1,n/a,n/a,n/a,n/a,n/a
